@@ -1,4 +1,3 @@
-Imports System
 Imports System.Text
 
 Module Program
